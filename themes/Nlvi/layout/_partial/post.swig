@@ -28,6 +28,9 @@
           <a href="{{ url_for(post.path) }}">{{ post.title }}</a>
         {% endif %}
       </h1>
+      <font color="gray">  
+        本文共 {{ symbolsCount(post) }} 字 ｜ 预计阅读时间 {{ symbolsTime(post) }}
+      </font>
     </header>
     <div class="post-content syuanpi fadeInRightShort back-3">
       {% if is_post() %}

@@ -38,6 +38,9 @@
             <a  class="archive-post-link" href="{{ url_for(post.path) }}">
               {{ post.title }}
             </a>
+            <div class="archive-post-time">
+              本文共 {{ symbolsCount(post) }} 字 ｜ 预计阅读时间 {{ symbolsTime(post) }}
+            </div>
           </div>
         </div>
       {% endfor %}

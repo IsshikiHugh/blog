@@ -53,9 +53,9 @@ copyright:
 
 #Reword button or message(fill your QRCode of any Pay.)
 reward:
-  enable: false
-  # message:
-  qrcode:
+  enable: true
+  message: 诶？
+  # qrcode:
     # alipay:
     #   url:
     #   message:

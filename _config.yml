@@ -40,7 +40,10 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
+marked:
+  preopenRoot: true
+  postAsset: true
 relative_link: false
 future: true
 highlight:
@@ -55,6 +58,18 @@ prismjs:
   preprocess: true
   line_number: true
   tab_replace: ''
+search:
+  path: search.xml
+  field: post
+  content: true
+symbols_count_time:
+  symbols: true
+  time: true
+  total_symbols: false
+  total_time: false
+  awl: 1
+  wpm: 400
+  suffix: "分钟"
 
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
@@ -105,4 +120,7 @@ toc: true
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: git@github.com:IsshikiHugh/blog.git
+  branch: pages
+
