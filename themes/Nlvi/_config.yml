@@ -1,0 +1,187 @@
+# ===========================================
+# Information Settings
+# ===========================================
+
+#navigation
+menu:
+  article: /
+  archives: /archives
+  tags: /tags
+  about: /about
+  # rss: /atom.xml
+
+# favicon
+favicon: 
+
+# ===========================================
+# Color&Schemes Setting
+# ===========================================
+
+## Common
+
+# Navigator Language
+local-nav: false
+
+# Mobile-Header
+# light | dark
+mobile-header: light
+
+# Scheme
+# banderole | balance
+scheme: banderole
+
+# Header Style
+# line | block
+header-style: line
+
+# theme-style
+# default: dark | green | blue | purple
+# miku | sakura | snowmiku | iro
+theme-style: iro
+
+# ===========================================
+# Article Setting
+# ===========================================
+
+# Navigator in post
+toc: true
+
+# Use copyright infomation
+copyright:
+  enable: true
+  # license:
+
+#Reword button or message(fill your QRCode of any Pay.)
+reward:
+  enable: false
+  message: 诶？
+  qrcode:
+    notebook1:
+      url: https://pic.imgdb.cn/item/63e8596d4757feff3344ccdd.png
+      message: 来我的笔记本玩玩吧！
+    notebook2:
+      url: https://pic.imgdb.cn/item/63e8596d4757feff3344ccdd.png
+      message: 来我的笔记本玩玩吧！
+    # alipay:
+    #   url:
+    #   message:
+    # wechat:
+    #   url:
+    #   message:
+    # paypal:
+    #   url:
+    #   message:
+
+# ===========================================
+# Social Contact
+# ===========================================
+
+# Comments // Please only switch one on.
+comments:
+  enable: false
+
+  # disqus:
+  # livere_datauid:
+
+  # changyan:
+  #   appid: cywwB941W
+  #   appkey: 9cbf5ced8b236b681956641d5e0d0b26
+
+  # gitalk:
+  #   owner:
+  #   repo:
+  #   client_id:
+  #   client_secret:
+  #   admin:
+
+# sub //Please just fill out ID.
+sub:
+  # facebook: 
+  # twitter:
+  # instagram:
+  # weibo:
+  # zhihu:
+  github: IsshikiHugh
+  # linkedin:
+  # douban:
+  # medium:
+  yuque: isshikixiu
+  telegram: TowerNight
+
+#Friend link
+friendLink: 
+  我的笔记本: https://note.isshikih.top
+  
+
+# ===========================================
+# Analytics
+# ===========================================
+
+analytics:
+  google: G-0NZ2P2ZYTP
+  baidu:
+
+#visit_count(Powered by busuanzi on http://busuanzi.ibruce.info/)
+visit_count: true
+
+# ===========================================
+# Theme Settings
+# ===========================================
+
+# pjax
+pjax: false
+
+# mathjax
+mathjax: false
+mathjax3: false
+
+# lightbox
+lightbox: true
+
+# lazyload
+lazyload: true
+
+# animate (Powered by Syuanpi on https://colmugx.github.io/Syuanpi.css)
+animate: true
+
+# Created Time
+since: 2023
+
+# plugin
+# plugins:
+
+# about
+# self:
+
+# ===========================================
+# Search Settings
+# ===========================================
+
+# Search
+search:
+  enable: true
+  label: 捧起碎片
+
+# ===========================================
+# Documents Styles
+# ===========================================
+
+# article-fonts
+# default | Simsun | YaHei | Hel | Custom
+fonts-style: XWWenKai
+
+# code-fonts
+# default | Custom
+code-style: default
+
+# ===========================================
+# WebApp Settings (iOS)
+# ===========================================
+
+
+# ===========================================
+# Version
+# ===========================================
+version: 3.0
+
+#theme_author: Co1MugX

@@ -1,6 +1,6 @@
 {% if theme.friendLink %}
   <div class="friends" id="friends">
-    <h3 class="title">{{ __('friendlink') }}</h3>
+    <h2 class="title">{{ __('friendlink') }}</h3>
     <div class="friends-inner">
       {% for name, url in theme.friendLink %}
       <div class="friend-item">
