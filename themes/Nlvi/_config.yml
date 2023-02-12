@@ -53,9 +53,15 @@ copyright:
 
 #Reword button or message(fill your QRCode of any Pay.)
 reward:
-  enable: true
+  enable: false
   message: 诶？
-  # qrcode:
+  qrcode:
+    notebook1:
+      url: https://pic.imgdb.cn/item/63e8596d4757feff3344ccdd.png
+      message: 来我的笔记本玩玩吧！
+    notebook2:
+      url: https://pic.imgdb.cn/item/63e8596d4757feff3344ccdd.png
+      message: 来我的笔记本玩玩吧！
     # alipay:
     #   url:
     #   message:
