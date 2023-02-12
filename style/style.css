@@ -1151,7 +1151,6 @@ body.under {
 }
 .footer .visit_count {
   color: inherit;
-  display: flex;
   align-items: center;
 }
 .footer .visit_count .iconfont {
