@@ -8,7 +8,7 @@ menu:
   archives: /archives
   tags: /tags
   about: /about
-  # rss: /atom.xml
+  rss: /atom.xml
 
 # favicon
 favicon: 
@@ -106,11 +106,12 @@ sub:
   # douban:
   # medium:
   yuque: isshikixiu
-  telegram: TowerNight
 
 #Friend link
 friendLink: 
   我的笔记本: https://note.isshikih.top
+  我的 Telegram 频道: https://t.me/TowerNight
+
   
 
 # ===========================================
@@ -119,7 +120,6 @@ friendLink:
 
 analytics:
   google: G-0NZ2P2ZYTP
-  baidu:
 
 #visit_count(Powered by busuanzi on http://busuanzi.ibruce.info/)
 visit_count: true
