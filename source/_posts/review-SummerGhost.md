@@ -4,7 +4,7 @@ date: 2023-02-11 20:13:32
 tags: 
     - "读后感 / 观后感"
     - "影视作品"
-    - "高度剧透"
+    - "剧透"
 ---
 
 **|** 介绍：[WIKI](https://zh.wikipedia.org/wiki/%E5%A4%8F%E6%97%A5%E5%B9%BD%E9%9D%88) **|** 预告：[YOUTUBE](https://www.youtube.com/watch?v=9BpKeUqQPqw) **|** 全片：[BILIBILI](https://www.bilibili.com/bangumi/play/ss41484?t=1262) **|**

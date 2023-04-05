@@ -1,6 +1,5 @@
 title: About
 type: "about"
-comments: false
 ---
 
 为了写点东西匆匆建站的，所以很多东西还没弄过。
